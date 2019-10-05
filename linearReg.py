@@ -47,3 +47,6 @@ predictions = linear.predict(x_test)
 # for x in range(len(predictions)):
 #     print("\n", predictions[x], x_test[x], y_test[x])
  
+	
+# Regards,
+# Shrijeet Kumar Panda
